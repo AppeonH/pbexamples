@@ -29,6 +29,7 @@
  "f_set_profile.srf" "pbexamfe.pbl";
  "p_examples_exe.srj" "pbexamfe.pbl";
  "m_main.srm" "pbexamfe.pbl";
+ "m_main_inh.srm" "pbexamfe.pbl";
  "m_main_rmb.srm" "pbexamfe.pbl";
  "m_report.srm" "pbexamfe.pbl";
  "m_script.srm" "pbexamfe.pbl";
