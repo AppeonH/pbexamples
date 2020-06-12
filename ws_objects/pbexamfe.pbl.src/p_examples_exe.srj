@@ -1,6 +1,6 @@
 ﻿$PBExportHeader$p_examples_exe.srj
 $PBExportComments$Generated Application Executable Project
-EXE:examples.exe,,0,1,0
+EXE:examples.exe,,0,0,0
 CMP:1,0,0,2,0,0,1
 COM:Appeon
 DES:Appeon Product File
