@@ -3,6 +3,7 @@ Save Format v3.0(19990112)
 @end;
 @begin Targets
  0 "PB Examples.pbt";
+ 1 "..\\..\\..\\..\\WorkCase\\ticket4579\\test_rtf_PB2019\\test_rtf.pbt";
 @end;
-DefaultTarget "PB Examples.pbt";
-DefaultRemoteTarget "PB Examples.pbt";
+DefaultTarget "..\\..\\..\\..\\WorkCase\\ticket4579\\test_rtf_PB2019\\test_rtf.pbt";
+DefaultRemoteTarget "..\\..\\..\\..\\WorkCase\\ticket4579\\test_rtf_PB2019\\test_rtf.pbt";
